@@ -6,7 +6,7 @@ Start your laravel project by command-> `laravel new symposium`
 Starter kit -> `Laravel Breeze`  
 Breeze stack  -> `Blade with Alpine` 
 Testing framework -> `Pest`  
-Database  -> `SQLite`  
+Database  -> `Mysql`  
 
 ## **Install Duster**
 
